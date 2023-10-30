@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530784765359",
+    "project_id": "brokerapp-f5952",
+    "storage_bucket": "brokerapp-f5952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530784765359:android:1951128324fbc2ebe55b5a",
+        "android_client_info": {
+          "package_name": "com.focusx.brokerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlb9jWhNwNEKKELIz6CaD50Ayz-kHjpPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
